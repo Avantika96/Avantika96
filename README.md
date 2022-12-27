@@ -14,7 +14,7 @@
   </div>
   <br />
   <h2>👋 Hi, I’m Avantika Gupta, Frontend developer by profession and artist by heart.</h2>
-  <h4>📟 If you want to know more about me check this out: https://avantika-gupta.vercel.app/</h4>
+  <h3>📟 If you want to know more about me check this out: https://avantika-gupta.vercel.app/</h3>
   <br />
 </div>
 <br />
