@@ -17,7 +17,6 @@
   <h3>📟 If you want to know more about me check this out: https://avantika-gupta.vercel.app/</h3>
   <br />
 </div>
-<br />
 
 ### :hammer_and_wrench: Skills :
 <div>
